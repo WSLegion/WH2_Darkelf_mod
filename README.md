@@ -39,7 +39,6 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
       * +4 MD
    * Medusa units:
       * +35% range
-      * +8% missile damage
       * +4 MD
 ## Stage 3 (level 30)
    * Shade:
@@ -48,9 +47,9 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
       * +10 MD
    * Medusa units:
       * +35% range
-      * +20% missile damage
       * +10 MD
-      * Enable poison attack for all units in her army (missile and melee)
+      * Increased Explosion Damage for missiles
+   * Enable poison attack for all units in her army (missile and melee)
 # Hellebron
 ## Stage 1 (level 10)
    * Witch elves, Sisters of Slaughter and Har Ganeth Executioners:
