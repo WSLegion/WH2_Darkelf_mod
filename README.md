@@ -77,6 +77,7 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
    * Corsair (both variants):
       * +100% AP melee damage
       * +100% AP missile damage
+      * +5% Speed
 ## Stage 2 (level 20)
    * Corsair (both variants):
       * +5% PR
@@ -84,6 +85,7 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
       * +150% AP missile damage
       * +2 MA / MD
       * +10% range
+      * +10% Speed
 ## Stage 3 (level 30)
    * Corsair (both variants):
       * +30% PR
@@ -91,6 +93,7 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
       * +250% AP missile damage
       * +8 MA / MD
       * +40% range
+      * +20% speed
       * Enable Strider (Immune to terrain effects)
 # Malus
 ## Stage 1 (level 10)
