@@ -1,5 +1,3 @@
-MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
-
 # Malekith
 ## Stage 1 (level 10)
    * Blackguard:
@@ -26,9 +24,9 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
 # Morathi
 ## Stage 1 (level 10)
    * Shade:
-      * +35% range
+      * +35% Range
    * Medusa units:
-      * +35% range
+      * +35% Range
       * +5% Speed
 ## Stage 2 (level 20)
    * Shade:
@@ -51,7 +49,7 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
 # Hellebron
 ## Stage 1 (level 10)
    * Witch elves, Sisters of Slaughter and Har Ganeth Executioners:
-      * +5% speed
+      * +5% Speed
 ## Stage 2 (level 20)
    * Witch elves, Sisters of Slaughter and Har Ganeth Executioners:
       * +5% Physical Resistance
@@ -73,8 +71,8 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
 # Lokhir
 ## Stage 1 (level 10)
    * Corsair (both variants):
-      * +100% AP melee damage
-      * +100% AP missile damage
+      * +100% AP Melee Damage
+      * +100% AP Missile Damage
 ## Stage 2 (level 20)
    * Corsair (both variants):
       * +5% Physical Resistance
@@ -87,12 +85,12 @@ MD: Melee Defence, MA: Melee Attack, PR: Physical Resistance
       * Enable Vanguard Deployment and Strider
       * +10 Melee Attack / Melee Defence
    * Corsair (Melee variant):
-      * +300% AP melee damage
-      * -50% Non-AP melee damage
+      * +300% AP Melee Damage
+      * -50% Non-AP Melee Damage
       * Enable "Stalk" and "Unspottable"
       * Enable "Shock Trooper" (+40% Speed, +5 Melee Attack, 30s Duration, 90s CD)
    * Corsair (Ranged variant):
-      * +100% AP melee damage
+      * +100% AP Melee Damage
       * Enable AP Projectile with "Blood Loss" Effect
       * Blood Loss: -30% Speed, -5 Melee Defence, affected units take damage over time
       * Enable "Guerrilla Tactic" (+40% Speed if there is enemy within 60 range. +15% Missile Resistance and constantly recover fatigue if there is no enemy within 60 range, passive)
