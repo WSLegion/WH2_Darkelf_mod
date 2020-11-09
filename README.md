@@ -94,6 +94,10 @@
       * Enable AP Projectile with "Blood Loss" Effect
       * Blood Loss: -30% Speed, -5 Melee Defence, affected units take damage over time
       * Enable "Guerrilla Tactic" (+40% Speed if there is enemy within 60 range. +15% Missile Resistance and constantly recover fatigue if there is no enemy within 60 range, passive)
+   * Kharibdyss:
+      * Enable "Hunger"
+      * Enable "Chilling Aura" (All enemies within 60 range gain -10% Speed and -5 Melee Attack)
+      * Enable "Poisonous Breath" (Breath ability with 3 charges per battle)
 # Malus
 ## Stage 1 (level 10)
    * Cold One Knight Units:
