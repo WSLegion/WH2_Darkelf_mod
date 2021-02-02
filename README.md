@@ -105,6 +105,7 @@ Executioners remain a damage-dealing infantry, Sisters of Slaughter can now be u
         - Toggleable ability
         - When Activated, gain +30% Ward Save and +10 Melee Defence, but suffers from -25 Melee Attack
 # Lokhir
+The new "Blood Loss" Effect caused by corsair units can slow enemy units down while lowering their Melee Defence. It also deals damage over time.
 ## Stage 1 (level 10)
    * Corsair (both variants):
       * +100% AP Melee Damage
