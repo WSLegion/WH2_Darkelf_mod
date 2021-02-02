@@ -4,6 +4,8 @@
       * +5 Physical Resistance
    * Darkshards:
       * +2 Melee Defence
+   * Black Dragons:
+      * +2 Melee Attack/ Defence
 ## Stage 2 (level 20)
    * Blackguard:
       * +15% Physical Resistance
@@ -11,6 +13,9 @@
       * Enable Expert Charge Defence
    * Darkshards:
       * +5 MD
+   * Black Dragons:
+      * +4 Melee Attack/ Defence
+      * +5% Ward Save
 ## Stage 3 (level 30)
    * Blackguard:
       * +30% Physical Resistance
@@ -19,33 +24,54 @@
       * Enable Martial Mastery
    * Darkshards:
       * +10 Melee Defence
-      * Enable "Sharpshooter" Projectile with "Shieldbreaker" Effect, better Range and Accuracy, but reduces Reload Speed
-      * Enable "Suppressive Fire" Ability (+25 Reload Skill, -35% Range)
+      * Improved Missile Weapon
+	- Better Range, Accuracy
+	- Reduces Reload Speed
+      * Enable "Suppressive Fire" Ability
+	- Toggleable Ability
+	- While Activated, gain +25 Reload Skill, suffer -35% Range
+   * Black Dragons:
+      * +8 Melee Attack/ Defence
+      * +10% Ward Save
+      * Enable "Noxious Mist"
+	- Active Ability, 1 charge per battle
+	- Summons a static vortex, dealing constant damage to enemies within
+	- Also inflict "Poisoned" contact effect
 # Morathi
 ## Stage 1 (level 10)
-   * Shade:
-      * +35% Range
    * Medusa units:
-      * +35% Range
       * +5% Speed
 ## Stage 2 (level 20)
    * Shade:
-      * +35% Range
       * +4 Melee Defence
    * Medusa units:
-      * +35% Range
       * +4 Melee Defence
       * +10 Speed
 ## Stage 3 (level 30)
    * Shade:
-      * +35% Range
-      * +10 MD
-      * Enable new Projectile with "Poison" Effect and better Accuracy
+      * +10 Melee Defence
+      * Improved Missile Weapon
+	- The normal variant gets the best Missile Weapon 
+	- Highest Range (between all 3 variants), equivalent to Shades with Shadowdart
+	- Also inflicts "Poisoned" contact effect
+	- Dual Weapon and Greatsword variant also has improvement, but not as good as the normal variant when it comes to Missile Weapon
+	- Range is lower than the normal variant
+	- Does not inflict "Poisoned"
+      * Enable "Chase Shadows" for the Dual Weapon Variant
+	- Passive ability
+	- Active if health drops below 75%
+	- Gains 5 Melee Defence and 10% Ward Save when activated
+      * Enable "Shadow Strike" for the Greatsword Variant
+	- Toggleable ability
+	- When activated, gain "Unspottable", +5 Melee Attack and +10% Weapon Strength but suffers -100% Range
+   - Comment: I want to have difference in the 3 variants of Shades. The normal variant focus on Missile Damage, the Dual Weapon is the best at holding the line (If needed). The Greatsword variant is the best at infiltrating.
    * Medusa units:
       * +35% Range
       * +10 Melee Defence
       * Increased Explosion Damage for projectiles
-      * Enable "Petrifying Gaze" (Stop a single enemy unit from moving, 1 charge per battle)
+      * Enable "Petrifying Gaze"
+	- Active Ability, 1 charge per battle
+	- Stops an enemy unit from moving
 # Hellebron
 ## Stage 1 (level 10)
    * Witch elves, Sisters of Slaughter and Har Ganeth Executioners:
@@ -65,9 +91,13 @@
       * +125% AP Weapon Strength
       * -50% Non-AP Weapon Strength
    * Witch elves:
-      * Enable "Madness of Khaine" (Disable Missile Weapon of target unit, target unit is prone to "Rampage", 45s Duration, 1 Charge per battle)
+      * Enable "Madness of Khaine" 
+	- Active ability, 1 charge per battle
+	- Target will suffer from -100% Range and is prone to "Rampage"
    * Sisters of Slaughter:
-      * Enable "Dance of Blade" (-20 Melee Attack, +30 Ward Save, +10 Melee Defence, 30s Duration, 60s CD)
+      * Enable "Dance of Blade" 
+	- Toggleable ability
+	- When Activated, gain +30% Ward Save and +10 Melee Defence, but suffers from -25 Melee Attack
 # Lokhir
 ## Stage 1 (level 10)
    * Corsair (both variants):
@@ -87,17 +117,29 @@
    * Corsair (Melee variant):
       * +300% AP Melee Damage
       * -50% Non-AP Melee Damage
+      * Attack inflicts "Blood Loss" Effect
       * Enable "Stalk" and "Unspottable"
-      * Enable "Shock Trooper" (+40% Speed, +5 Melee Attack, 30s Duration, 90s CD)
+      * Enable "Shock Trooper" 
+	- Active ability, 90s CD
+	- When activated, gain +40% Speed and +5 Melee Attack for 30s
    * Corsair (Ranged variant):
       * +100% AP Melee Damage
       * Enable AP Projectile with "Blood Loss" Effect
       * Blood Loss: -30% Speed, -5 Melee Defence, affected units take damage over time
-      * Enable "Guerrilla Tactic" (+40% Speed if there is enemy within 60 range. +15% Missile Resistance and constantly recover fatigue if there is no enemy within 60 range, passive)
+      * Enable "Guerrilla Tactic" 
+	- Passive ability
+	- If no enemy present within 80 range
+	- Gain +15% Missile Resistance and constantly recover fatigue
+	- If enemy present within 80 range
+	- Gain +30% Speed
    * Kharibdyss:
       * Enable "Hunger"
-      * Enable "Chilling Aura" (All enemies within 60 range gain -10% Speed and -5 Melee Attack)
-      * Enable "Poisonous Breath" (Breath ability with 3 charges per battle)
+      * Enable "Chilling Aura"
+	- Passive ability
+	- All enemies within 60 range suffer from -10% Speed and -5 Melee Attack
+      * Enable "Poisonous Breath"
+	- Active ability, 3 Charges per battle
+	- An AoE damage spell
 # Malus
 ## Stage 1 (level 10)
    * Cold One Knight Units:
@@ -111,10 +153,19 @@
       * +10 Charge Bonus
       * +5 Melee Defence
 ## Stage 3 (level 30)
-   * Cold One Knight Units:
+   * Cold One Knight and Cold One Dread Knight Units:
       * +30% Physical Resistance
       * +20% speed
-      * +20 charge bonus
       * +10 Melee Defence
       * Enable Fatigue Immune
-      * Enable "Tamed Beast" (Unit will not go into Rampage, passive)
+      * Enable "Tamed Beast"
+	- Passive ability
+	- Always active
+	- Units cannot go into "Rampage"
+   * Cold One Knight Units:
+      * +5 Melee Attack
+      * +10 Anti-Large Bonus
+      * Enable "Devastating Charge"
+	- Passive ability
+	- Activated when charging
+	- Gain +30 Charge Bonus and additional Speed/ Charge Speed
