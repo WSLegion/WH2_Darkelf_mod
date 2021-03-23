@@ -92,7 +92,7 @@ Executioners remain a damage-dealing infantry, Sisters of Slaughter can now be u
       * +10% PR
       * +25% speed
       * +5 MA
-      * Enable Fatigue Immune
+      * Enable "Perfect Vigour" and "Vanguard Deployment"
    * Witch elves and Sisters of Slaughter:
       * +125% AP Weapon Strength
       * -50% Non-AP Weapon Strength
@@ -119,13 +119,13 @@ The new "Blood Loss" Effect caused by corsair units can slow enemy units down wh
 ## Stage 3 (level 30)
    * Corsair (Both variants):
       * +10% Physical Resistance
-      * Enable Vanguard Deployment and Strider
+      * Enable "Strider"
       * +10 Melee Attack / Melee Defence
    * Corsair (Melee variant):
       * +300% AP Melee Damage
       * -50% Non-AP Melee Damage
       * Attack inflicts "Blood Loss" Effect
-      * Enable "Stalk" and "Unspottable"
+      * Enable "Unspottable"
       * Enable "Shock Trooper" 
         - Active ability, 90s CD
         - When activated, gain +40% Speed and +5 Melee Attack for 30s
@@ -139,14 +139,7 @@ The new "Blood Loss" Effect caused by corsair units can slow enemy units down wh
         - Gain +15% Missile Resistance and constantly recover fatigue
         - If enemy present within 80 range
         - Gain +30% Speed
-   * Kharibdyss:
-      * Enable "Hunger"
-      * Enable "Chilling Aura"
-        - Passive ability
-        - All enemies within 60 range suffer from -10% Speed and -5 Melee Attack
-      * Enable "Poisonous Breath"
-        - Active ability, 3 Charges per battle
-        - An AoE damage spell
+
 # Malus
 While Dreadknight are equivalent to Grail Guardians, the Cold One Knights are more like Grail Knights. They now focus on different roles.
 ## Stage 1 (level 10)
@@ -177,3 +170,75 @@ While Dreadknight are equivalent to Grail Guardians, the Cold One Knights are mo
         - Passive ability
         - Activated when charging
         - Gain +30 Charge Bonus and additional Speed/ Charge Speed
+ 
+# Rakarth
+  WIP
+  "Other beast units" consists of following units: Giant Wolves, Feral Mammoth, Feral Cold Ones, Feral Stegadon, Feral Carnosaur, Feral Manticore and Explosive Squigs
+  Note: Currently the workshop version does not contain any of the abilities. I will upload them when I am finished testing them
+## Stage 1 (level 10)
+  * Harpy
+    * +5 Melee Attack and Melee Defence
+    * +8% Ward Save
+  * Hydra and Kharibdyss
+    * +5 Melee Attack and Melee Defence
+    * +5% AP-Weapon Strength
+    * +6% Fire Resistance
+    * +5% Physical Resistance
+  * Scourgerunner Chariot
+      * +4% Speed
+  * Other beast units:
+      * +5% Weapon Strength
+      * +5% Speed
+## Stage 2 (level 20)
+  * Harpy
+      * +10 Melee Attack and Melee Defence
+      * +15% Ward Save
+  * Hydra and Kharibdyss
+      * +10 Melee Attack and Melee Defence
+      * +10% AP-Weapon Strength
+      * +12% Fire Resistance
+      * +10% Physical Resistance
+  * Scourgerunner Chariot
+      * +8% Speed
+  * Other beast units:
+      * +5 Melee Attack and Melee Defence
+      * +10% Weapon Strength
+      * +10% Speed
+## Stage 3 (level 30)
+  * All monster units:
+      * Enable "Dark Rejuvenation"
+        - Bound ability, 2 Charges per battle
+        - Heal 36 health per 0.5 second for 29 seconds, can revive entities 
+  * Harpy
+      * +20 Melee Attack and Melee Defence
+      * +30% Ward Save
+      * Enable "The Crows Gather"
+        - Bound ability, 1 Charge per battle
+        - Can only target units with less than 25% health left
+        - Kills off the target unit and summon a unit of Harpies 
+  * Hydra and Kharibdyss
+      * +20 Melee Attack and Melee Defence
+      * +20% AP-Weapon Strength
+      * +25% Fire Resistance
+      * +20% Physical Resistance
+      * Enable "Spellthirster" for Hydra
+        - One off ability, (This is like a toggleable ability, but once you activates it, you cannot deactivate it and have to stick with it for the entire battle)
+        - Gain +100% Magic Resistance but suffer from -20% Physical Resistance
+      * Enable "Feedback" for Hydra
+        - Bound ability, 1 Charge per battle
+        - Can only target casters
+        - 100% Chance to deal 350 damage per second to a single entity for 10s
+      * Enable "Digestive Juice" for Kharibdyss
+        - Active ability, 60s Duration, 120s CD
+        - Enemies within 60 range of the target position will suffer from -50% Armour and -20% Weapon Strength
+  * Scourgerunner Chariot
+      * +15% Speed
+      * Improve Missile Weapon
+        - Higher Accuracy, 165 range, Higher penetration capability
+      * Enable "Beastmaster's Net"
+        - Bound Ability, 1 Charge per battle
+        - Enemies within 30 range of the target position will suffer from -10 Melee Attack/Defence and cannot move for 10s
+  * Other beast units:
+      * +10 Melee Attack and Melee Defence
+      * +20% Weapon Strength
+      * +20% Speed
