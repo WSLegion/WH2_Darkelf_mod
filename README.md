@@ -207,14 +207,14 @@ While Dreadknight are equivalent to Grail Guardians, the Cold One Knights are mo
 ## Stage 3 (level 30)
   * All monster units except Medusa units:
       * Enable "Dark Rejuvenation"
-        - Bound ability, 2 Charges per battle
+        - Bound ability, 1 Charges per battle
         - Heal 36 health per 0.5 second for 29 seconds, can revive entities 
   * Harpy
       * +20 Melee Attack and Melee Defence
       * +30% Ward Save
       * Enable "The Crows Gather"
         - Bound ability, 1 Charge per battle
-        - Can only target units with less than 25% health left
+        - Can only target units with less than 20% health left
         - Kills off the target unit and summon a unit of Harpies 
   * Hydra and Kharibdyss
       * +20 Melee Attack and Melee Defence
