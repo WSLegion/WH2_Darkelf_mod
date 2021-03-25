@@ -205,7 +205,7 @@ While Dreadknight are equivalent to Grail Guardians, the Cold One Knights are mo
       * +10% Weapon Strength
       * +10% Speed
 ## Stage 3 (level 30)
-  * All monster units:
+  * All monster units except Medusa units:
       * Enable "Dark Rejuvenation"
         - Bound ability, 2 Charges per battle
         - Heal 36 health per 0.5 second for 29 seconds, can revive entities 
@@ -224,10 +224,6 @@ While Dreadknight are equivalent to Grail Guardians, the Cold One Knights are mo
       * Enable "Spellthirster" for Hydra
         - One off ability, (This is like a toggleable ability, but once you activates it, you cannot deactivate it and have to stick with it for the entire battle)
         - Gain +100% Magic Resistance but suffer from -20% Physical Resistance
-      * Enable "Feedback" for Hydra
-        - Bound ability, 1 Charge per battle
-        - Can only target casters
-        - 100% Chance to deal 350 damage per second to a single entity for 10s
       * Enable "Digestive Juice" for Kharibdyss
         - Active ability, 60s Duration, 120s CD
         - Enemies within 60 range of the target position will suffer from -50% Armour and -20% Weapon Strength
