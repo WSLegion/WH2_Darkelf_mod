@@ -2,7 +2,7 @@
 
 ## Stage 1 (level 10)
    * Blackguard:
-      * +5 Physical Resistance
+      * +5% Physical Resistance
    * Darkshards:
       * +2 Melee Defence
    * Black Dragons:
@@ -13,7 +13,7 @@
       * +5 Melee Defence
       * Enable Expert Charge Defence
    * Darkshards:
-      * +5 MD
+      * +5 Melee Defence
    * Black Dragons:
       * +4 Melee Attack/ Defence
       * +5% Ward Save
@@ -91,7 +91,7 @@ Executioners remain a damage-dealing infantry, Sisters of Slaughter can now be u
    * Witch elves, Sisters of Slaughter and Har Ganeth Executioners:
       * +10% PR
       * +25% speed
-      * +5 MA
+      * +5 Melee Attack
       * Enable "Perfect Vigour" and "Vanguard Deployment"
    * Witch elves and Sisters of Slaughter:
       * +125% AP Weapon Strength
