@@ -99,7 +99,7 @@ Executioners remain a damage-dealing infantry, Sisters of Slaughter can now be u
    * Witch elves:
       * Enable "Madness of Khaine" 
         - Active ability, 1 charge per battle
-        - Target will suffer from -100% Range and is prone to "Rampage"
+        - Enemies within 30m range of target position will suffer from -100% Range and is prone to "Rampage"
    * Sisters of Slaughter:
       * Enable "Dance of Blade" 
         - Toggleable ability
@@ -172,9 +172,8 @@ While Dreadknight are equivalent to Grail Guardians, the Cold One Knights are mo
         - Gain +30 Charge Bonus and additional Speed/ Charge Speed
  
 # Rakarth
-  WIP
   "Other beast units" consists of following units: Giant Wolves, Feral Mammoth, Feral Cold Ones, Feral Stegadon, Feral Carnosaur, Feral Manticore and Explosive Squigs
-  Note: Currently the workshop version does not contain any of the abilities. I will upload them when I am finished testing them
+  Note: You might not want to use all these units in his army, all these units with different roles will be very hard to control. I personally use solid SEMs like Hydra, Kharibdyss and Mammoth as the core of the army and shut down enemy missile/air units with Harpies and Scourgerunner Chariots.
 ## Stage 1 (level 10)
   * Harpy
     * +5 Melee Attack and Melee Defence
@@ -182,7 +181,6 @@ While Dreadknight are equivalent to Grail Guardians, the Cold One Knights are mo
   * Hydra and Kharibdyss
     * +5 Melee Attack and Melee Defence
     * +5% AP-Weapon Strength
-    * +6% Fire Resistance
     * +5% Physical Resistance
   * Scourgerunner Chariot
       * +4% Speed
@@ -196,7 +194,6 @@ While Dreadknight are equivalent to Grail Guardians, the Cold One Knights are mo
   * Hydra and Kharibdyss
       * +10 Melee Attack and Melee Defence
       * +10% AP-Weapon Strength
-      * +12% Fire Resistance
       * +10% Physical Resistance
   * Scourgerunner Chariot
       * +8% Speed
@@ -219,7 +216,6 @@ While Dreadknight are equivalent to Grail Guardians, the Cold One Knights are mo
   * Hydra and Kharibdyss
       * +20 Melee Attack and Melee Defence
       * +20% AP-Weapon Strength
-      * +25% Fire Resistance
       * +20% Physical Resistance
       * Enable "Spellthirster" for Hydra
         - One off ability, (This is like a toggleable ability, but once you activates it, you cannot deactivate it and have to stick with it for the entire battle)
